@@ -1,0 +1,215 @@
+<application>
+  <component name="libraryTable">
+    <library name="bootstrap" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_css_bootstrap.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_css_bootstrap.css" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_js_bootstrap.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_twitter-bootstrap_3.3.7_css_bootstrap.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_css_bootstrap.css" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_stackpath.bootstrapcdn.com_bootstrap_4.4.1_js_bootstrap.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="bootstrapvalidator" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-validator_0.4.5_js_bootstrapvalidator.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdnjs.cloudflare.com_ajax_libs_bootstrap-validator_0.4.5_js_bootstrapvalidator.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="builder-print-denied.044490c" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_builder-print-denied.044490c.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_builder-print-denied.044490c.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="builder.b8bb922" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_builder.b8bb922.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_builder.b8bb922.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="builder.f272af2" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_builder.f272af2.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_builder.f272af2.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="confirmbox.10e4f53" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_confirmbox.10e4f53.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_confirmbox.10e4f53.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="date-picker.200985e" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_date-picker.200985e.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_date-picker.200985e.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="edit-survey.6615205" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_edit-survey.6615205.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_edit-survey.6615205.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="editor-side-panel.b352fbb" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_editor-side-panel.b352fbb.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_editor-side-panel.b352fbb.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="editor.a275551" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_editor.a275551.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_editor.a275551.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="fra.26b8464" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_fra.26b8464.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_fra.26b8464.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="jquery-1.11.1" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <option name="frameworkVersion" value="1.1." />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.11.1.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-1.11.1.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="jquery-3.4.1.slim" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="jQuery" />
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.4.1.slim.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.4.1.slim.js" />
+      </CLASSES>
+      <DOCUMENTATION>
+        <root url="http://api.jquery.com" />
+      </DOCUMENTATION>
+      <SOURCES />
+    </library>
+    <library name="popper" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.0_dist_umd_popper.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_cdn.jsdelivr.net_npm_popper.js@1.16.0_dist_umd_popper.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="premium-professional-business-enterprise.2082834" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_premium-professional-business-enterprise.2082834.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_premium-professional-business-enterprise.2082834.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="slider-question.639b42e" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_slider-question.639b42e.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_slider-question.639b42e.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="survey-index.4404576" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_survey-index.4404576.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_js_survey-index.4404576.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="survey-index.8d011e8" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_survey-index.8d011e8.css" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_resources.surveyhero.com_css_survey-index.8d011e8.css" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>

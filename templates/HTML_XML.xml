@@ -1,0 +1,8 @@
+<templateSet group="HTML/XML">
+  <template name="html" value="&lt;!DOCTYPE html&gt;&#10;&lt;html lang=&quot;en&quot;&gt;&#10;&lt;head&gt;&#10;    &lt;title&gt;$Title$&lt;/title&gt;&#10;    &lt;meta charset=&quot;utf-8&quot;&gt;&#10;    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot;&gt;&#10;    &lt;link rel=&quot;stylesheet&quot; href=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css&quot;&gt;&#10;    &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js&quot;&gt;&lt;/script&gt;&#10;    &lt;script src=&quot;https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js&quot;&gt;&lt;/script&gt;&#10;&lt;/head&gt;&#10;&lt;body&gt;&#10;&#10;&lt;header&gt;&#10;    &lt;nav&gt;&#10;      $END$&#10;    &lt;/nav&gt;&#10;&lt;/header&gt;&#10;&#10;&lt;aside&gt;&#10;    &#10;&lt;/aside&gt;&#10;&#10;&lt;main&gt;&#10;&#10;&lt;/main&gt;&#10;&#10;&lt;footer&gt;&#10;&#10;&lt;/footer&gt;&#10;&#10;&lt;/body&gt;&#10;&lt;/html&gt;" description="Adding bootstrap html" toReformat="true" toShortenFQNames="true">
+    <variable name="Title" expression="" defaultValue="Home" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+</templateSet>
