@@ -8,13 +8,6 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="18d449f8-3f09-4cf2-b63b-24e3cf7db43f" name="sportId server" url="http://185.185.70.51">
-        <fileTransfer rootFolder="/home/stuurgurs" accessType="SFTP" host="185.185.70.51" port="22" sshConfigId="298a4c21-5aa4-42f1-a0f3-72c59d8fd443" sshConfig="apexbot.com">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>

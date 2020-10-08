@@ -4,7 +4,7 @@
       <sshConfig authType="PASSWORD" host="185.251.89.179" id="ffc2d647-d56a-40ae-ae2a-312a54140f13" port="22" customName="KNOWME-panel" nameFormat="CUSTOM">
         <option name="customName" value="KNOWME-panel" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="185.185.70.51" id="298a4c21-5aa4-42f1-a0f3-72c59d8fd443" port="22" customName="apexbot.com" nameFormat="CUSTOM">
+      <sshConfig authType="PASSWORD" host="185.185.70.51" id="298a4c21-5aa4-42f1-a0f3-72c59d8fd443" port="22" customName="apexbot.com" nameFormat="CUSTOM" username="stuurgurs">
         <option name="customName" value="apexbot.com" />
       </sshConfig>
     </configs>
