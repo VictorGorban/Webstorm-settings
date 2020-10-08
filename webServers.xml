@@ -2,19 +2,17 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="cce3e046-b6e7-4ef3-a6d8-c580acdc38d6" name="KNOWME-panel" url="http://185.251.89.179">
-        <fileTransfer host="185.251.89.179" port="22" rootFolder="/home/stuurgurs" accessType="SFTP">
+        <fileTransfer rootFolder="/home/stuurgurs" accessType="SFTP" host="185.251.89.179" port="22" sshConfigId="ffc2d647-d56a-40ae-ae2a-312a54140f13" sshConfig="KNOWME-panel">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="18d449f8-3f09-4cf2-b63b-24e3cf7db43f" name="apexbot.com" url="http://185.185.70.51">
-        <fileTransfer host="185.185.70.51" port="22" rootFolder="/home/stuurgurs" accessType="SFTP">
+      <webServer id="18d449f8-3f09-4cf2-b63b-24e3cf7db43f" name="sportId server" url="http://185.185.70.51">
+        <fileTransfer rootFolder="/home/stuurgurs" accessType="SFTP" host="185.185.70.51" port="22" sshConfigId="298a4c21-5aa4-42f1-a0f3-72c59d8fd443" sshConfig="apexbot.com">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
