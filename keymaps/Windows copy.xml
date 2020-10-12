@@ -6,5 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
+  <action id="OverrideMethods" />
   <action id="QuickChangeScheme" />
 </keymap>
