@@ -14,8 +14,20 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl x" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="Inline" />
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
+  <action id="NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="ctrl o" />
   </action>
